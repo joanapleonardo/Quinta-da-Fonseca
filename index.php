@@ -79,7 +79,7 @@
 
 <div class="container shadow mb-3 rounded p-3">
     <div class="row" >
-        <div class="col-4">
+        <div class="col-4 my-auto h-100">
             <img src="img/vacas.png" class="img-fluid rounded-start" alt="vacas">
         </div>
         <div class="col-md-8">
@@ -101,10 +101,9 @@
     </div>
 </div>
 
-<div class="container shadow mb-3 rounded p-3">
-    <div class="row">
-        
-        <div class="col-8">
+<div class="container shadow mb-3 rounded p-3 text-center">
+    <div class="row">        
+        <div class="col-12">
             <div class="card-body">
                 <h5 class="card-title"><br>A MUDANÇA É POSSIVEL!</h5>
                 <P>Para a maioria das pessoas, é possível reduzir ou até eliminar animais de nossas dietas.</P>
