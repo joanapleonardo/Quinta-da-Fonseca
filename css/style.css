@@ -1,0 +1,57 @@
+header{ text-align: center;
+image-rendering: auto;
+text-align: center;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header div{
+    background-color: #EBEDE4;
+
+}
+
+h1, h2, h3, h4, h5, p{
+ text-align: center;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+  .card{
+    text-align: center;
+    image-rendering: auto;
+    background-color: #EBEDE4;
+    margin : 10px;
+    margin-bottom: 10px;
+    border : 10px;
+    display: inline-block;
+    width : 90%;
+    position:relative;
+    max-width: 100%;
+  }
+
+  .div.text{
+    text-align: center;
+  }
+
+.contactos.container{
+    background-image: image(/img)
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+ }
+
+  .row{
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
