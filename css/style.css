@@ -51,14 +51,6 @@ img[alt*="vacas"]{
     text-align: center;
   }
 
-.contactos.container{
-    background-image: image(/img)
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    
- }
-
   .row{
     display: center;
     margin-left: auto;
