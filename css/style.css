@@ -7,18 +7,24 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.btn{
+ 
+}
+
 header div{
     background-color: #EBEDE4;
-
 }
+
+div.container{
+    background-color: #EBEDE4;
+}
+
 
 img[alt*="vacas"]{
   object-fit: cover;
+  max-width: 100%;
+  height: auto;
 }
-
-/* h1, h2, h3, h4, h5, p{
- text-align: center;
-} */
 
 
 .center {
@@ -60,7 +66,6 @@ img[alt*="vacas"]{
     width: auto;
   }
 
-  .footer .a{
-
-    color: black !important;
+  footer a{
+    color: teal !important;
   }

@@ -112,8 +112,8 @@
                 <p>Carne Canina BIO da Quinta da Fonseca não é real, mas esperamos que pense sobre qualquer raiva que possa ter causado. Considere o que significaria abrir seu coração à ideia de que os chamados "animais comida" são igualmente merecedores de amor e compaixão e talvez não exista esse conceito de "animais feitos para serem comidos".</p>
                 <p>No mínimo, nenhum animal merece as cruéis e curtas vidas que nós criamos para eles.</p>
 
-                <a href="FAQ.php" class="btn">Agora eu entendo!</a>
-                <a href="produtos.php" class="btn">Ainda não entendo!</a>
+                <a href="FAQ.php" class="btn btn-light" type="button">Agora eu entendo!</a>
+                <a href="produtos.php" class="btn btn-light" type="button">Ainda não entendo!</a>
             </div>
         </div>
     </div>
