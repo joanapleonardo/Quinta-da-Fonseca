@@ -2,6 +2,10 @@
 
 <?php include ('content/header.php')?>
 
+<?php     
+    //include ('content/nav.php')
+?>
+
 <div class="container shadow mb-3 rounded p-3">
     <div class="row">
         <div class="col-4">
@@ -10,25 +14,35 @@
         <div class="col-8">
             <div class="card-body">
                 <h5 class="card-title"><br><br>A Quinta da Fonseca vai na frente da matilha</h5>
-                <p class="card-text">Prepare a mesa com a melhor carne do homem.
+                <p class="card-text"><br><br>Prepare a mesa com a melhor carne do homem.
                     <p> Carne Canina BIO da Quinta da Fonsecas é mantida e operada pela mesma família há mais de duas gerações. Somos dedicados e determinados a oferecer, aos nossos amigos e vizinhos, a melhor e mais sustentável carne de cão disponível.
                     <p>Ao contrario do que acontece em algumas quintas, os nossos cachorros nunca recebem antibióticos e passam pouco tempo em confinamento. Têm acesso a pastos verdes durante os meses de verão e são alimentados apenas com comida orgânica e livre de soja.
 
                     <br><br><b>Os nossos cães são:</b>
-
-
-                    <p>Criados ao ar livre
-                    <p>Comércio local
-                    <p>Provenientes de agricultura biológica
-                    <p>Frescos, nunca congelados!
-                    <p>Livres de antibióticos
-                    <p>Abatidos humanamente
-                    <p>Amados
+                    <ul>
+                        <li>Criados ao ar livre</li>
+                        <li>Comércio local</li>
+                        <li>Provenientes de agricultura biológica</li>
+                        <li>Frescos, nunca congelados!</li>
+                        <li>Livres de antibióticos</li>
+                        <li>Abatidos humanamente</li>
+                        <li>Amados</li>
+                    </ul>
 
 
                     <p>Tanto cães como cachorros estão disponíveis por corte, peso ou animal inteiro. O caldo de ossos tem stock muito limitado. Por favor entre em contacto para confirmar a disponibilidade de raças.
             </div>
         </div>
+    </div>
+</div>
+
+
+<div class="container shadow mb-3 rounded p-3 text-center content-center" id="iframe">
+    <h5>
+        <br>Veja o nosso primeiro anúncio da TV!<br>
+    </h5>
+    <div class="container" id="iframe">
+        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/h2xi0I_nWds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -40,30 +54,24 @@
         </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><br><br>Se a Carne Canina BIO da Quinta da Fonseca o deixa triste, por favor considere que:</h5>
-        <p class="card-text">
-            <ul>
-                <li><b>Cães na Quinta da Fonseca foram criados para serem comidos.</b></li>
-
-                <li>Comer cães é uma escolha pessoal.</li>
-
-                <li>Alguns preferem o sabor da carne de cão.</li>
-
-                <li>Os cães oferecem incríveis benefícios nutricionais.</li>
-
-                <li>Labrador assado já é uma tradição nos dias especiais em família.</li>
-
-                <li>Os cães, na verdade, não sentem dor.</li>
-
-                <li>Este é o nosso emprego, o nosso sustento.</li>
-</ul>
+            <h5 class="card-title"><br><br>Se a Carne Canina BIO da Quinta da Fonseca o deixa triste, por favor considere que:</h5>
+                <p class="card-text">
+                    <ul>
+                        <li><b>Cães na Quinta da Fonseca foram criados para serem comidos.</b></li>
+                        <li>Comer cães é uma escolha pessoal.</li>
+                        <li>Alguns preferem o sabor da carne de cão.</li>
+                        <li>Os cães oferecem incríveis benefícios nutricionais.</li>
+                        <li>Labrador assado já é uma tradição nos dias especiais em família.</li>
+                        <li>Os cães, na verdade, não sentem dor.</li>
+                        <li>Este é o nosso emprego, o nosso sustento.</li>
+                    </ul>
       </div>
     </div>
   </div>
 </div>
 
 
-<div class="container shadow mb-3 rounded p-3">
+<div class="container shadow mb-3 rounded p-3 text-center">
     <div class="row">
         <div class="col-4">
             <img src="img/backimage.png" class="img-fluid rounded-start" alt="bife";>

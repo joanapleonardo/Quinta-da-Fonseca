@@ -25,7 +25,7 @@
     <div class="collapse" id="pergunta2">
         <div class="card card-body">
             <p>A maioria dos amantes de cães não gostaria de ver as partes do corpo do seu animal de estimação morto num prato na frente deles. Nem aceitaria que o seu cão fosse inseminado, mutilado e morto nem tampouco pagaria por isso.
-            <p>Sendo assim, será possível amar um cão, mas também torturá -lo e matá-lo? Especialmente quando existem infinitas opções de comida disponíveis? Será possível realmente ser um amante de animais se pagar para que algum animal sofra quando não é necessário?
+            <p>Sendo assim, será possível amar um cão, mas também torturá-lo e matá-lo? Especialmente quando existem infinitas opções de comida disponíveis? Será possível realmente ser um amante de animais se pagar para que algum animal sofra quando não é necessário?
         </div>
         </div>
 
@@ -84,7 +84,7 @@
   <p>Muitas organizações respeitáveis documentaram que podemos obter todos os nutrientes de que precisamos – proteína, ferro, cálcio e todos os outros nutrientes que associamos a produtos de origem animal – sem explorar os animais. Isso porque os nutrientes encontrados nos animais podem ser encontrados nas plantas (que é de onde os animais os obtêm). 
   <p>“É a posição da American Dietetic Association que dietas vegetarianas devidamente planeadas, incluindo dietas totalmente vegetarianas ou veganas, são saudáveis, nutricionalmente adequadas e podem fornecer benefícios à saúde na prevenção e tratamento de certas doenças. Dietas vegetarianas bem planeadas são apropriadas para indivíduos durante todas as fases do ciclo de vida, incluindo gravidez, lactação, infância e adolescência, e para atletas.” - American Dietetic Association (o maior corpo de profissionais de nutrição e dieta nos EUA).
   <p>Então, se não é necessário comer animais para sua saúde, isso não significa que continuar a comer animais (e tudo o que isso implica) é uma crueldade desnecessária?
-  <p>Tem dúvidas? Confira a abundância de atletas à base de plantas. Ou pesquise como o consumo de produtos de origem animal está realmente associado às nossas principais doenças e enfermidades, incluindo doenças cardíacas , diabetes tipo 2 , ataques cardíacos e AVC's, muitas formas de cancro, hipertensão, demência e osteoporose — e muitas delas podem ser tratados e até revertidos mudando para um estilo de vida baseado em plantas.
+  <p>Tem dúvidas? Confira a abundância de atletas à base de plantas. Ou pesquise como o consumo de produtos de origem animal está realmente associado às nossas principais doenças e enfermidades, incluindo doenças cardíacas, diabetes tipo 2, ataques cardíacos e AVC's, muitas formas de cancro, hipertensão, demência e osteoporose — e muitas delas podem ser tratados e até revertidos mudando para um estilo de vida baseado em plantas.
   </div>
   </div>
 
@@ -95,7 +95,7 @@
 </p>
 <div class="collapse" id="pergunta7">
   <div class="card card-body">
-  <p>Nos EUA, era costume escravizar as pessoas e era normal homens adultos terem noivas crianças. Nutros países, a mutilação genital feminina ainda é uma tradição, assim como a matança de golfinhos, lutas de cães, galos e touradas – a lista continua.
+  <p>Nos EUA, era costume escravizar as pessoas e era normal homens adultos terem noivas crianças. Noutros países, a mutilação genital feminina ainda é uma tradição, assim como a matança de golfinhos, lutas de cães, galos e touradas – a lista continua.
   <p>Com essas tradições em mente, ainda acha que a cultura e tradição são bons indicadores de moralidade?
   <p>Além disso, por que devemos celebrar a cultura matando animais quando podemos celebrar com música, dança e literatura – ou simplesmente mudando os ingredientes do que comemos?
   </div>
@@ -235,7 +235,7 @@
   <p>A nossa mensagem é que comer cães não é mais antiético ou estranho do que comer outros animais igualmente sencientes.
   <p>Esse conceito não pretende estar associado a um país, regiões ou pessoas específicas que atualmente consomem carne de cão. 
   <p>Na verdade, existe uma grande tradição de comer carne de cão: muitas pessoas ainda comem gatos e cães na Suíça . Em algumas regiões de África ainda se consome carne de cão . Os cães eram amplamente consumidos em França até serem proibidos em 1910. É legal consumir cães no Reino Unido e os cães às vezes são consumidos em algumas partes da Ásia (fonte: Wikipedia ).
-  <p>Para alcançar o objetivo de atingir emocionalmente nosso público ocidental, foi necessário escolher um animal que eles amam e respeitam mais do que qualquer outro animal – e no mundo ocidental, é o cão. Qualquer sobreposição com estereótipos sobre outras culturas e regiões é uma coincidência. É também uma comparação que não fazemos em nenhum dos nossos conteúdos. (Alguns desses pontos são abordados no vídeo deste ativista vegano .)
+  <p>Para alcançar o objetivo de atingir emocionalmente nosso público ocidental, foi necessário escolher um animal que eles amam e respeitam mais do que qualquer outro animal – e no mundo ocidental, é o cão. Qualquer sobreposição com estereótipos sobre outras culturas e regiões é uma coincidência. É também uma comparação que não fazemos em nenhum dos nossos conteúdos.
   <p><b>Não toleramos estereótipos pejorativos em torno das culturas que comem carne de cão.</b>
   <p>O nosso objetivo é alcançar carnívoros que professam amar os animais e mostrar-lhes a sua própria hipocrisia. Com isso, esperamos mostrar como é hipócrita julgar outras culturas por se envolver em práticas muito semelhantes às nossas .</b>
   </div>

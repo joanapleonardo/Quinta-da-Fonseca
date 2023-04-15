@@ -4,7 +4,7 @@
         <img src="img/logo.png" alt="Logo" class="center" max-width= 300px height= 300px;>
  
 <?php     
-    include ('content/nav.php')
+     include ('content/nav.php')
 ?>
 </div>
 </header>

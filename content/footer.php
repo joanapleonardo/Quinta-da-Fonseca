@@ -1,9 +1,9 @@
-<footer class="container-fluid">
-        <div class="row">
-            <div class="col-12 col-md-6 text-center p-3">
-                © Quinta da Fonseca - A melhor carne canina, fresca, familiar e orgânica.
+<footer class="container fluid shadow rounded" id="produto">
+        <div class="row" id="produto">
+            <div class="col-12 col-md-6 text-center p-3" id="produto">
+                © Quinta da Fonseca - Carne canina, fresca, familiar e BIO.
             </div>
-            <div class="col-12 col-md-6 text-center p-3">
+            <div class="col-12 col-md-6 text-center p-3" id="produto">
                 <a href="https://www.facebook.com/ElwoodDogMeat/" target="_blank"><i class="bi bi-facebook"></i></a>
                 <a href="https://twitter.com/ElwoodDogMeat" target="_blank"><i class="bi bi-twitter"></i></a>
                 <a href="https://www.instagram.com/elwoodsorganicdog/" target="_blank"><i class="bi bi-instagram"></i></a>

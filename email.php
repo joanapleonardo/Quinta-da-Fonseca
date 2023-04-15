@@ -34,19 +34,21 @@ try {
     // $mail->addAttachment('/var/tmp/file.tar.gz');         //Add attachments
     // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    //Optional name
 
-    $remetente = $_GET['email'];
+    $nome = $_GET['nome'];
+    $email = $_GET['email'];
+    $comochegou = $_GET['comochegou'];
     $mensagem = $_GET['mensagem'];
 
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = "Enviado por $remetente";
-    $mail->Body    = $mensagem;
+    $mail->Subject = "Enviado por $email";
+    $mail->Body    = "Nome: $nome <br><br> E-mail: $email <br><br>  Como chegou até nós: $comochegou <br><br> Mensagem: $mensagem";
     $mail->AltBody = $mensagem;
 
     $mail->send();
-    header('Location: index.php?p=contacto&r=ok');
+    header('Location: contactos.php?r=ok');
 } catch (Exception $e) {
-    header('Location: index.php?p=contacto&r=erro');
+    header('Location: contactos.php?r=erro');
     //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }

@@ -5,22 +5,50 @@ text-align: center;
 
 body{
     font-family: 'Josefin Sans', sans-serif;
+    background-color: cadetblue;
 }
 
-.btn{
- 
+
+nav li:hover{
+  background-color: lightgray;
+}
+
+
+#iframe{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h5{
+  text-align: center;
 }
 
 header div{
-    background-color: #EBEDE4;
+    background-color: #EBEDE4 !important;
+}
+
+footer div{
+  background-color: #EBEDE4 !important;
 }
 
 div.container{
-    background-color: #EBEDE4;
+    background-color: #EBEDE4 !important;
 }
 
-
 img[alt*="vacas"]{
+  position: relative;
   object-fit: cover;
   max-width: 100%;
   height: auto;
@@ -50,6 +78,9 @@ img[alt*="vacas"]{
   .div.text{
     text-align: center;
   }
+  #produto{
+background-color: whitesmoke !important;
+  }
 
   .row{
     display: center;
@@ -60,4 +91,5 @@ img[alt*="vacas"]{
 
   footer a{
     color: teal !important;
+    position: fixed bottom;
   }
